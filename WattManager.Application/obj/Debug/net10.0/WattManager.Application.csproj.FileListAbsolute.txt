@@ -1,0 +1,15 @@
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\bin\Debug\net10.0\WattManager.Application.deps.json
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\bin\Debug\net10.0\WattManager.Application.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\bin\Debug\net10.0\WattManager.Application.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\bin\Debug\net10.0\WattManager.Domain.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\bin\Debug\net10.0\WattManager.Domain.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.csproj.AssemblyReference.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.AssemblyInfoInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.AssemblyInfo.cs
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattMana.90FEAC81.Up2Date
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\refint\WattManager.Application.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\WattManager.Application.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Application\obj\Debug\net10.0\ref\WattManager.Application.dll

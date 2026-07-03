@@ -1,0 +1,17 @@
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Infrastructure.deps.json
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Infrastructure.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Infrastructure.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Application.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Domain.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Application.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\bin\Debug\net10.0\WattManager.Domain.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.AssemblyInfo.cs
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattMana.CC22D3DA.Up2Date
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\refint\WattManager.Infrastructure.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\WattManager.Infrastructure.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Infrastructure\obj\Debug\net10.0\ref\WattManager.Infrastructure.dll

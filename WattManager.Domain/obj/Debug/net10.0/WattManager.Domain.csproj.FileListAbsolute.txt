@@ -1,0 +1,11 @@
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\bin\Debug\net10.0\WattManager.Domain.deps.json
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\bin\Debug\net10.0\WattManager.Domain.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\bin\Debug\net10.0\WattManager.Domain.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.AssemblyInfoInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.AssemblyInfo.cs
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\refint\WattManager.Domain.dll
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\WattManager.Domain.pdb
+C:\Users\mkiye\OneDrive\Desktop\VDE\c#\WattManagerEnterprise\WattManager.Domain\obj\Debug\net10.0\ref\WattManager.Domain.dll

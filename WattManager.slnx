@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WattManager.Api/WattManager.Api.csproj" />
+  <Project Path="WattManager.Application/WattManager.Application.csproj" />
+  <Project Path="WattManager.Domain/WattManager.Domain.csproj" />
+  <Project Path="WattManager.Infrastructure/WattManager.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@WattManager.Api_HostAddress = http://localhost:5064
+
+GET {{WattManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
